@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PersonalException\bin\Debug\PersonalException.exe.config
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PersonalException\bin\Debug\PersonalException.exe
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PersonalException\bin\Debug\PersonalException.pdb
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PersonalException\obj\Debug\PersonalException.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PersonalException\obj\Debug\PersonalException.exe
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PersonalException\obj\Debug\PersonalException.pdb

@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PlayCatch\bin\Debug\PlayCatch.exe.config
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PlayCatch\bin\Debug\PlayCatch.exe
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PlayCatch\bin\Debug\PlayCatch.pdb
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PlayCatch\obj\Debug\PlayCatch.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PlayCatch\obj\Debug\PlayCatch.exe
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PlayCatch\obj\Debug\PlayCatch.pdb
