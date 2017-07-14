@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\mployeeData\bin\Debug\mployeeData.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\mployeeData\bin\Debug\mployeeData.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\mployeeData\bin\Debug\mployeeData.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\mployeeData\obj\Debug\mployeeData.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables\mployeeData\obj\Debug\mployeeData.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\mployeeData\obj\Debug\mployeeData.pdb

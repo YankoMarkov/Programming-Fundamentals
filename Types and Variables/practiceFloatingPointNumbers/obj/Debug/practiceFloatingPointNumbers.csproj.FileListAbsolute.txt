@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceFloatingPointNumbers\bin\Debug\practiceFloatingPointNumbers.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceFloatingPointNumbers\bin\Debug\practiceFloatingPointNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceFloatingPointNumbers\bin\Debug\practiceFloatingPointNumbers.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceFloatingPointNumbers\obj\Debug\practiceFloatingPointNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceFloatingPointNumbers\obj\Debug\practiceFloatingPointNumbers.pdb

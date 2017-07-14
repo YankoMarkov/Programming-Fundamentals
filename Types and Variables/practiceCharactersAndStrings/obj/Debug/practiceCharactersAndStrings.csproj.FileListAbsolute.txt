@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceCharactersAndStrings\bin\Debug\practiceCharactersAndStrings.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceCharactersAndStrings\bin\Debug\practiceCharactersAndStrings.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceCharactersAndStrings\bin\Debug\practiceCharactersAndStrings.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceCharactersAndStrings\obj\Debug\practiceCharactersAndStrings.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\practiceCharactersAndStrings\obj\Debug\practiceCharactersAndStrings.pdb

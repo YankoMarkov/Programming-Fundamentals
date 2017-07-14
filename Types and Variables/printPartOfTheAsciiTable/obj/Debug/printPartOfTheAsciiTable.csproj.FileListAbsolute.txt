@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\printPartOfTheAsciiTable\bin\Debug\printPartOfTheAsciiTable.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\printPartOfTheAsciiTable\bin\Debug\printPartOfTheAsciiTable.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\printPartOfTheAsciiTable\bin\Debug\printPartOfTheAsciiTable.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\printPartOfTheAsciiTable\obj\Debug\printPartOfTheAsciiTable.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\printPartOfTheAsciiTable\obj\Debug\printPartOfTheAsciiTable.pdb

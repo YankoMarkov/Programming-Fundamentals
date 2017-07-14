@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\rectangleProperties\bin\Debug\rectangleProperties.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\rectangleProperties\bin\Debug\rectangleProperties.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\rectangleProperties\bin\Debug\rectangleProperties.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\rectangleProperties\obj\Debug\rectangleProperties.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\rectangleProperties\obj\Debug\rectangleProperties.pdb
