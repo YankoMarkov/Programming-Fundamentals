@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\fastPrimeChecker\bin\Debug\fastPrimeChecker.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\fastPrimeChecker\bin\Debug\fastPrimeChecker.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\fastPrimeChecker\bin\Debug\fastPrimeChecker.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\fastPrimeChecker\obj\Debug\fastPrimeChecker.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\fastPrimeChecker\obj\Debug\fastPrimeChecker.pdb

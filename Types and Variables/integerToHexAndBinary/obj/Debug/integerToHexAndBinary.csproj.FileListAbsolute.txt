@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\integerToHexAndBinary\bin\Debug\integerToHexAndBinary.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\integerToHexAndBinary\bin\Debug\integerToHexAndBinary.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\integerToHexAndBinary\bin\Debug\integerToHexAndBinary.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\integerToHexAndBinary\obj\Debug\integerToHexAndBinary.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\integerToHexAndBinary\obj\Debug\integerToHexAndBinary.pdb
