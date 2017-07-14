@@ -1,0 +1,10 @@
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.exe.config
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.pdb
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.pdb

@@ -1,0 +1,12 @@
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\bin\Debug\restaurantDiscount.exe.config
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\bin\Debug\restaurantDiscount.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\bin\Debug\restaurantDiscount.pdb
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\obj\Debug\restaurantDiscount.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\obj\Debug\restaurantDiscount.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\obj\Debug\restaurantDiscount.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\bin\Debug\restaurantDiscount.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\bin\Debug\restaurantDiscount.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\bin\Debug\restaurantDiscount.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\obj\Debug\restaurantDiscount.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\obj\Debug\restaurantDiscount.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\restaurantDiscount\obj\Debug\restaurantDiscount.pdb

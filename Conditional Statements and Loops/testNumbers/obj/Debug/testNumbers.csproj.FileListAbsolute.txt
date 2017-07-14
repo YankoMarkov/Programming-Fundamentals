@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\testNumbers\bin\Debug\testNumbers.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\testNumbers\bin\Debug\testNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\testNumbers\bin\Debug\testNumbers.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\testNumbers\obj\Debug\testNumbers.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\testNumbers\obj\Debug\testNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\testNumbers\obj\Debug\testNumbers.pdb

@@ -1,0 +1,12 @@
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\bin\Debug\wordInPlural.exe.config
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\bin\Debug\wordInPlural.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\bin\Debug\wordInPlural.pdb
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\obj\Debug\wordInPlural.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\obj\Debug\wordInPlural.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\obj\Debug\wordInPlural.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\bin\Debug\wordInPlural.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\bin\Debug\wordInPlural.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\bin\Debug\wordInPlural.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\obj\Debug\wordInPlural.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\obj\Debug\wordInPlural.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\wordInPlural\obj\Debug\wordInPlural.pdb
