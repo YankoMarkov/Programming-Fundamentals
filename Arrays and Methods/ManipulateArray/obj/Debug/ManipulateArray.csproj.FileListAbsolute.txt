@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ManipulateArray\bin\Debug\ManipulateArray.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ManipulateArray\bin\Debug\ManipulateArray.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ManipulateArray\bin\Debug\ManipulateArray.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ManipulateArray\obj\Debug\ManipulateArray.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ManipulateArray\obj\Debug\ManipulateArray.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ManipulateArray\obj\Debug\ManipulateArray.pdb
