@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\SrubskoUnleashed\bin\Debug\SrubskoUnleashed.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\SrubskoUnleashed\bin\Debug\SrubskoUnleashed.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\SrubskoUnleashed\bin\Debug\SrubskoUnleashed.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\SrubskoUnleashed\obj\Debug\SrubskoUnleashed.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\SrubskoUnleashed\obj\Debug\SrubskoUnleashed.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\SrubskoUnleashed\obj\Debug\SrubskoUnleashed.pdb

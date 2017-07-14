@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb
