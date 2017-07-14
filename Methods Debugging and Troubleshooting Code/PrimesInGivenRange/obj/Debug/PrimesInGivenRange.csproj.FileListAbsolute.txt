@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

@@ -1,0 +1,11 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

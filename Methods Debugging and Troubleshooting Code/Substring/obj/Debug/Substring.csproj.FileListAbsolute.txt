@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Substring\bin\Debug\Substring.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Substring\bin\Debug\Substring.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Substring\bin\Debug\Substring.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Substring\obj\Debug\Substring.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Substring\obj\Debug\Substring.pdb

@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\SequenceOfCommands\bin\Debug\SequenceOfCommands.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\SequenceOfCommands\bin\Debug\SequenceOfCommands.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\SequenceOfCommands\obj\Debug\SequenceOfCommands.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\SequenceOfCommands\obj\Debug\SequenceOfCommands.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\SequenceOfCommands\obj\Debug\SequenceOfCommands.pdb
