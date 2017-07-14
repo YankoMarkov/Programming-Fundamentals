@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

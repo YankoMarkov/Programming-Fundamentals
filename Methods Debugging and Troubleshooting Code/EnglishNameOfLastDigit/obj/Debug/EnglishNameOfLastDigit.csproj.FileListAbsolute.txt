@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.pdb

@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Factorial\bin\Debug\Factorial.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Factorial\bin\Debug\Factorial.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Factorial\bin\Debug\Factorial.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Factorial\obj\Debug\Factorial.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\Factorial\obj\Debug\Factorial.pdb
