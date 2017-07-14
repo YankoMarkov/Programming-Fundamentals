@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SupermarketDatabase\bin\Debug\SupermarketDatabase.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SupermarketDatabase\bin\Debug\SupermarketDatabase.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SupermarketDatabase\bin\Debug\SupermarketDatabase.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SupermarketDatabase\obj\Debug\SupermarketDatabase.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SupermarketDatabase\obj\Debug\SupermarketDatabase.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SupermarketDatabase\obj\Debug\SupermarketDatabase.pdb

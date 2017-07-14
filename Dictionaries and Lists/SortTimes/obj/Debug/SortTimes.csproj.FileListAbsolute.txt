@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SortTimes\bin\Debug\SortTimes.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SortTimes\bin\Debug\SortTimes.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SortTimes\bin\Debug\SortTimes.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SortTimes\obj\Debug\SortTimes.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SortTimes\obj\Debug\SortTimes.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\SortTimes\obj\Debug\SortTimes.pdb

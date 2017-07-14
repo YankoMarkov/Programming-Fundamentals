@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\TakeSkipRope\bin\Debug\TakeSkipRope.exe.config
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\TakeSkipRope\bin\Debug\TakeSkipRope.exe
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\TakeSkipRope\bin\Debug\TakeSkipRope.pdb
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\TakeSkipRope\obj\Debug\TakeSkipRope.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\TakeSkipRope\obj\Debug\TakeSkipRope.exe
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\TakeSkipRope\obj\Debug\TakeSkipRope.pdb
