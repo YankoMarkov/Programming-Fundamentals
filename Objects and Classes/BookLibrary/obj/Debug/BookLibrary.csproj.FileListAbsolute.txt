@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\BookLibrary\bin\Debug\BookLibrary.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\BookLibrary\bin\Debug\BookLibrary.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\BookLibrary\bin\Debug\BookLibrary.pdb
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\BookLibrary\obj\Debug\BookLibrary.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\BookLibrary\obj\Debug\BookLibrary.pdb

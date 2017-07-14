@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AverageGrades\bin\Debug\AverageGrades.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AverageGrades\bin\Debug\AverageGrades.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AverageGrades\bin\Debug\AverageGrades.pdb
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AverageGrades\obj\Debug\AverageGrades.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AverageGrades\obj\Debug\AverageGrades.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AverageGrades\obj\Debug\AverageGrades.pdb

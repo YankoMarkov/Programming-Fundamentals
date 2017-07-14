@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AndreyАndBilliard\bin\Debug\AndreyАndBilliard.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AndreyАndBilliard\bin\Debug\AndreyАndBilliard.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AndreyАndBilliard\bin\Debug\AndreyАndBilliard.pdb
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AndreyАndBilliard\obj\Debug\AndreyАndBilliard.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AndreyАndBilliard\obj\Debug\AndreyАndBilliard.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AndreyАndBilliard\obj\Debug\AndreyАndBilliard.pdb

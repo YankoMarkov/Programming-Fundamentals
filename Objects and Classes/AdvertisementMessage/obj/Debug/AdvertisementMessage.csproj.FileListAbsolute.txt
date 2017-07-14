@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb
