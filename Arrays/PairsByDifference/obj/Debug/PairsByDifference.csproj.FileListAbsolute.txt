@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Arrays\PairsByDifference\bin\Debug\PairsByDifference.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays\PairsByDifference\bin\Debug\PairsByDifference.exe
+F:\C#\Projects\Programming Fundamentals\Arrays\PairsByDifference\bin\Debug\PairsByDifference.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays\PairsByDifference\obj\Debug\PairsByDifference.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Arrays\PairsByDifference\obj\Debug\PairsByDifference.exe
+F:\C#\Projects\Programming Fundamentals\Arrays\PairsByDifference\obj\Debug\PairsByDifference.pdb

@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Arrays\RotateAndSum\bin\Debug\RotateAndSum.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays\RotateAndSum\bin\Debug\RotateAndSum.exe
+F:\C#\Projects\Programming Fundamentals\Arrays\RotateAndSum\bin\Debug\RotateAndSum.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays\RotateAndSum\obj\Debug\RotateAndSum.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Arrays\RotateAndSum\obj\Debug\RotateAndSum.exe
+F:\C#\Projects\Programming Fundamentals\Arrays\RotateAndSum\obj\Debug\RotateAndSum.pdb
