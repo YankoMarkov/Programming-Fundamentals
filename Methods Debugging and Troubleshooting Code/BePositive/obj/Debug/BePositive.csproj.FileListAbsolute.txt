@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\BePositive\bin\Debug\BePositive.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\BePositive\bin\Debug\BePositive.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\BePositive\bin\Debug\BePositive.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\BePositive\obj\Debug\BePositive.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\BePositive\obj\Debug\BePositive.pdb

@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\CenterPoint\bin\Debug\CenterPoint.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\CenterPoint\bin\Debug\CenterPoint.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\CenterPoint\bin\Debug\CenterPoint.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\CenterPoint\obj\Debug\CenterPoint.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\CenterPoint\obj\Debug\CenterPoint.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\CenterPoint\obj\Debug\CenterPoint.pdb
