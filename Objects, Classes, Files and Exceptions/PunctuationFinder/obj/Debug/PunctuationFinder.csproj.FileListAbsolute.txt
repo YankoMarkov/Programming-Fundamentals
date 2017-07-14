@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PunctuationFinder\bin\Debug\PunctuationFinder.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PunctuationFinder\bin\Debug\PunctuationFinder.exe
+G:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PunctuationFinder\bin\Debug\PunctuationFinder.pdb
+G:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PunctuationFinder\obj\Debug\PunctuationFinder.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PunctuationFinder\obj\Debug\PunctuationFinder.exe
+G:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\PunctuationFinder\obj\Debug\PunctuationFinder.pdb

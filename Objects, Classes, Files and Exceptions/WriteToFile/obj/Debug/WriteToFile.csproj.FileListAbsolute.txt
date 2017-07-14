@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\WriteToFile\bin\Debug\WriteToFile.exe.config
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\WriteToFile\bin\Debug\WriteToFile.exe
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\WriteToFile\bin\Debug\WriteToFile.pdb
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\WriteToFile\obj\Debug\WriteToFile.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\WriteToFile\obj\Debug\WriteToFile.exe
+F:\C#\Projects\Programming Fundamentals\Objects, Classes, Files and Exceptions\WriteToFile\obj\Debug\WriteToFile.pdb
