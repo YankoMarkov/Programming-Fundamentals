@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\gameOfNumbers\bin\Debug\gameOfNumbers.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\gameOfNumbers\bin\Debug\gameOfNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\gameOfNumbers\bin\Debug\gameOfNumbers.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\gameOfNumbers\obj\Debug\gameOfNumbers.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\gameOfNumbers\obj\Debug\gameOfNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\gameOfNumbers\obj\Debug\gameOfNumbers.pdb

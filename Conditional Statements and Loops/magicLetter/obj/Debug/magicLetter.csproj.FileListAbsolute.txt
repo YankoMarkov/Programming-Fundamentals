@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\magicLetter\bin\Debug\magicLetter.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\magicLetter\bin\Debug\magicLetter.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\magicLetter\bin\Debug\magicLetter.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\magicLetter\obj\Debug\magicLetter.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\magicLetter\obj\Debug\magicLetter.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\magicLetter\obj\Debug\magicLetter.pdb

@@ -1,0 +1,12 @@
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\bin\Debug\hotel.exe.config
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\bin\Debug\hotel.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\bin\Debug\hotel.pdb
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\obj\Debug\hotel.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\obj\Debug\hotel.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\bin\Debug\hotel.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\bin\Debug\hotel.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\bin\Debug\hotel.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\obj\Debug\hotel.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\hotel\obj\Debug\hotel.pdb
