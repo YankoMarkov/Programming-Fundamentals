@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Censorship", "Censorship\Censorship.csproj", "{03E71CF8-21ED-4FE7-906D-432C4B046B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailMe", "EmailMe\EmailMe.csproj", "{D127C925-7B97-4C44-BD6F-C87DEDA0F62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarateStrings", "KarateStrings\KarateStrings.csproj", "{D199B0C0-4F07-4369-A6DC-599D694921C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E71CF8-21ED-4FE7-906D-432C4B046B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E71CF8-21ED-4FE7-906D-432C4B046B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E71CF8-21ED-4FE7-906D-432C4B046B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E71CF8-21ED-4FE7-906D-432C4B046B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D127C925-7B97-4C44-BD6F-C87DEDA0F62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D127C925-7B97-4C44-BD6F-C87DEDA0F62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D127C925-7B97-4C44-BD6F-C87DEDA0F62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D127C925-7B97-4C44-BD6F-C87DEDA0F62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D199B0C0-4F07-4369-A6DC-599D694921C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D199B0C0-4F07-4369-A6DC-599D694921C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D199B0C0-4F07-4369-A6DC-599D694921C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D199B0C0-4F07-4369-A6DC-599D694921C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

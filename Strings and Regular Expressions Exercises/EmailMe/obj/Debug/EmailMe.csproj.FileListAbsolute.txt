@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\EmailMe\bin\Debug\EmailMe.exe.config
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\EmailMe\bin\Debug\EmailMe.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\EmailMe\bin\Debug\EmailMe.pdb
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\EmailMe\obj\Debug\EmailMe.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\EmailMe\obj\Debug\EmailMe.pdb

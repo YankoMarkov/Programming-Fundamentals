@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\KarateStrings\bin\Debug\KarateStrings.exe.config
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\KarateStrings\bin\Debug\KarateStrings.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\KarateStrings\bin\Debug\KarateStrings.pdb
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\KarateStrings\obj\Debug\KarateStrings.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\KarateStrings\obj\Debug\KarateStrings.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\KarateStrings\obj\Debug\KarateStrings.pdb

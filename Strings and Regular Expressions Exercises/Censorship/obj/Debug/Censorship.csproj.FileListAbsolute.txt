@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\Censorship\bin\Debug\Censorship.exe.config
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\Censorship\bin\Debug\Censorship.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\Censorship\bin\Debug\Censorship.pdb
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\Censorship\obj\Debug\Censorship.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\Censorship\obj\Debug\Censorship.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Regular Expressions Exercises\Censorship\obj\Debug\Censorship.pdb
