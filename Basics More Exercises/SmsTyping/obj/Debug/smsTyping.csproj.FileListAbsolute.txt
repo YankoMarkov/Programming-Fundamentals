@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\smsTyping\bin\Debug\smsTyping.exe.config
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\smsTyping\bin\Debug\smsTyping.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\smsTyping\bin\Debug\smsTyping.pdb
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\smsTyping\obj\Debug\smsTyping.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\smsTyping\obj\Debug\smsTyping.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\smsTyping\obj\Debug\smsTyping.pdb

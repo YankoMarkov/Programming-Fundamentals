@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Basics More Exercises\x\bin\Debug\x.exe.config
+F:\C#\Projects\Programming Fundamentals\Basics More Exercises\x\bin\Debug\x.exe
+F:\C#\Projects\Programming Fundamentals\Basics More Exercises\x\bin\Debug\x.pdb
+F:\C#\Projects\Programming Fundamentals\Basics More Exercises\x\obj\Debug\x.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Basics More Exercises\x\obj\Debug\x.exe
+F:\C#\Projects\Programming Fundamentals\Basics More Exercises\x\obj\Debug\x.pdb

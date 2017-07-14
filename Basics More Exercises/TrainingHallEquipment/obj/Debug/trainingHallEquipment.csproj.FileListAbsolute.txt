@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\trainingHallEquipment\bin\Debug\trainingHallEquipment.exe.config
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\trainingHallEquipment\bin\Debug\trainingHallEquipment.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\trainingHallEquipment\bin\Debug\trainingHallEquipment.pdb
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\trainingHallEquipment\obj\Debug\trainingHallEquipment.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\trainingHallEquipment\obj\Debug\trainingHallEquipment.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\trainingHallEquipment\obj\Debug\trainingHallEquipment.pdb
