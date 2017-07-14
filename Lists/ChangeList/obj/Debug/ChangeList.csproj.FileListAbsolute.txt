@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Lists\ChangeList\bin\Debug\ChangeList.exe.config
+G:\C#\Projects\Programming Fundamentals\Lists\ChangeList\bin\Debug\ChangeList.exe
+G:\C#\Projects\Programming Fundamentals\Lists\ChangeList\bin\Debug\ChangeList.pdb
+G:\C#\Projects\Programming Fundamentals\Lists\ChangeList\obj\Debug\ChangeList.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Lists\ChangeList\obj\Debug\ChangeList.exe
+G:\C#\Projects\Programming Fundamentals\Lists\ChangeList\obj\Debug\ChangeList.pdb

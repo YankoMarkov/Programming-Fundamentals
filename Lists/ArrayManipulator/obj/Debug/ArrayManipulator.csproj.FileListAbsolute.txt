@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Lists\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+G:\C#\Projects\Programming Fundamentals\Lists\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+G:\C#\Projects\Programming Fundamentals\Lists\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+G:\C#\Projects\Programming Fundamentals\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+G:\C#\Projects\Programming Fundamentals\Lists\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

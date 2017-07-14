@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Lists\BombNumbers\bin\Debug\BombNumbers.exe.config
+G:\C#\Projects\Programming Fundamentals\Lists\BombNumbers\bin\Debug\BombNumbers.exe
+G:\C#\Projects\Programming Fundamentals\Lists\BombNumbers\bin\Debug\BombNumbers.pdb
+G:\C#\Projects\Programming Fundamentals\Lists\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Lists\BombNumbers\obj\Debug\BombNumbers.exe
+G:\C#\Projects\Programming Fundamentals\Lists\BombNumbers\obj\Debug\BombNumbers.pdb
