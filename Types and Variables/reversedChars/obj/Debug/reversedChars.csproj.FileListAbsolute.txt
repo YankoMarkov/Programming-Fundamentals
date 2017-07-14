@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\reversedChars\bin\Debug\reversedChars.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\reversedChars\bin\Debug\reversedChars.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\reversedChars\bin\Debug\reversedChars.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\reversedChars\obj\Debug\reversedChars.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\reversedChars\obj\Debug\reversedChars.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\reversedChars\obj\Debug\reversedChars.csprojResolveAssemblyReference.cache

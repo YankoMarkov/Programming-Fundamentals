@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\variableInHexadecimalFormat\bin\Debug\variableInHexadecimalFormat.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\variableInHexadecimalFormat\bin\Debug\variableInHexadecimalFormat.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\variableInHexadecimalFormat\bin\Debug\variableInHexadecimalFormat.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\variableInHexadecimalFormat\obj\Debug\variableInHexadecimalFormat.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\variableInHexadecimalFormat\obj\Debug\variableInHexadecimalFormat.pdb

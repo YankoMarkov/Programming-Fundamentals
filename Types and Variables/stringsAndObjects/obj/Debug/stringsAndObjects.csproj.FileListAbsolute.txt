@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\stringsAndObjects\bin\Debug\stringsAndObjects.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\stringsAndObjects\bin\Debug\stringsAndObjects.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\stringsAndObjects\bin\Debug\stringsAndObjects.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\stringsAndObjects\obj\Debug\stringsAndObjects.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables\stringsAndObjects\obj\Debug\stringsAndObjects.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\stringsAndObjects\obj\Debug\stringsAndObjects.pdb

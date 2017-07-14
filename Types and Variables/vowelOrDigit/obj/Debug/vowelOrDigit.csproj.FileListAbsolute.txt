@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\vowelOrDigit\bin\Debug\vowelOrDigit.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\vowelOrDigit\bin\Debug\vowelOrDigit.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\vowelOrDigit\bin\Debug\vowelOrDigit.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\vowelOrDigit\obj\Debug\vowelOrDigit.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables\vowelOrDigit\obj\Debug\vowelOrDigit.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\vowelOrDigit\obj\Debug\vowelOrDigit.pdb

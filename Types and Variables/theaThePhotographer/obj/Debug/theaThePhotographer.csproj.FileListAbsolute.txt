@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\theaThePhotographer\bin\Debug\theaThePhotographer.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\theaThePhotographer\bin\Debug\theaThePhotographer.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\theaThePhotographer\bin\Debug\theaThePhotographer.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\theaThePhotographer\obj\Debug\theaThePhotographer.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables\theaThePhotographer\obj\Debug\theaThePhotographer.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\theaThePhotographer\obj\Debug\theaThePhotographer.pdb
