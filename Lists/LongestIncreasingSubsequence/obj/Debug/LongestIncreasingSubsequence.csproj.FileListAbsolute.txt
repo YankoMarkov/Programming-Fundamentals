@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Lists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+G:\C#\Projects\Programming Fundamentals\Lists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+G:\C#\Projects\Programming Fundamentals\Lists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+G:\C#\Projects\Programming Fundamentals\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+G:\C#\Projects\Programming Fundamentals\Lists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

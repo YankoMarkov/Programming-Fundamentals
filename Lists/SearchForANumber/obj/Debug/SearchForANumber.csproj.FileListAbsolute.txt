@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Lists\SearchForANumber\bin\Debug\SearchForANumber.exe.config
+G:\C#\Projects\Programming Fundamentals\Lists\SearchForANumber\bin\Debug\SearchForANumber.exe
+G:\C#\Projects\Programming Fundamentals\Lists\SearchForANumber\bin\Debug\SearchForANumber.pdb
+G:\C#\Projects\Programming Fundamentals\Lists\SearchForANumber\obj\Debug\SearchForANumber.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Lists\SearchForANumber\obj\Debug\SearchForANumber.exe
+G:\C#\Projects\Programming Fundamentals\Lists\SearchForANumber\obj\Debug\SearchForANumber.pdb
