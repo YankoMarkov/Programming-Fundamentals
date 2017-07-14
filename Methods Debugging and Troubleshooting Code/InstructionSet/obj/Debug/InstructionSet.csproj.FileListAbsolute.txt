@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\InstructionSet\bin\Debug\InstructionSet.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\InstructionSet\bin\Debug\InstructionSet.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\InstructionSet\bin\Debug\InstructionSet.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\InstructionSet\obj\Debug\InstructionSet.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\InstructionSet\obj\Debug\InstructionSet.pdb

@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

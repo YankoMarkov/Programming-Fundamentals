@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\HelloName\bin\Debug\HelloName.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\HelloName\bin\Debug\HelloName.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\HelloName\bin\Debug\HelloName.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\HelloName\obj\Debug\HelloName.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\HelloName\obj\Debug\HelloName.pdb

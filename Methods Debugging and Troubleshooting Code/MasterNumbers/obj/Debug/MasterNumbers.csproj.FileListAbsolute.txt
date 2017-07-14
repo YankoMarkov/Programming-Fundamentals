@@ -1,0 +1,12 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\bin\Debug\MasterNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\bin\Debug\MasterNumbers.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\obj\Debug\MasterNumbers.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\obj\Debug\MasterNumbers.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\bin\Debug\MasterNumbers.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\bin\Debug\MasterNumbers.pdb
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\obj\Debug\MasterNumbers.exe
+G:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\MasterNumbers\obj\Debug\MasterNumbers.pdb

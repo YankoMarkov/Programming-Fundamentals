@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\LongerLine\bin\Debug\LongerLine.exe.config
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\LongerLine\bin\Debug\LongerLine.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\LongerLine\bin\Debug\LongerLine.pdb
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\LongerLine\obj\Debug\LongerLine.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\LongerLine\obj\Debug\LongerLine.exe
+F:\C#\Projects\Programming Fundamentals\Methods Debugging and Troubleshooting Code\LongerLine\obj\Debug\LongerLine.pdb
