@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\MentorGroup\bin\Debug\MentorGroup.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\MentorGroup\bin\Debug\MentorGroup.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\MentorGroup\bin\Debug\MentorGroup.pdb
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\MentorGroup\obj\Debug\MentorGroup.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\MentorGroup\obj\Debug\MentorGroup.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\MentorGroup\obj\Debug\MentorGroup.pdb

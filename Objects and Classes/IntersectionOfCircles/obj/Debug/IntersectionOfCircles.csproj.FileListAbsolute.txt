@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe.config
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.pdb
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.exe
+G:\C#\Projects\Programming Fundamentals\Objects and Classes\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.pdb
