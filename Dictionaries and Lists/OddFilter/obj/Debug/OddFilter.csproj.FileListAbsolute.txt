@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\OddFilter\bin\Debug\OddFilter.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\OddFilter\bin\Debug\OddFilter.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\OddFilter\bin\Debug\OddFilter.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\OddFilter\obj\Debug\OddFilter.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\OddFilter\obj\Debug\OddFilter.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\OddFilter\obj\Debug\OddFilter.pdb

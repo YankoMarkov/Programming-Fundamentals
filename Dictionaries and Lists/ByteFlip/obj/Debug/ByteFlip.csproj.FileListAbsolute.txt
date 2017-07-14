@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\ByteFlip\bin\Debug\ByteFlip.exe.config
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\ByteFlip\bin\Debug\ByteFlip.exe
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\ByteFlip\bin\Debug\ByteFlip.pdb
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\ByteFlip\obj\Debug\ByteFlip.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\ByteFlip\obj\Debug\ByteFlip.exe
+F:\C#\Projects\Programming Fundamentals\Dictionaries and Lists\ByteFlip\obj\Debug\ByteFlip.pdb
