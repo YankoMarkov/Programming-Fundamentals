@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\touristInformation\bin\Debug\touristInformation.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\touristInformation\bin\Debug\touristInformation.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\touristInformation\bin\Debug\touristInformation.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\touristInformation\obj\Debug\touristInformation.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\touristInformation\obj\Debug\touristInformation.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\touristInformation\obj\Debug\touristInformation.pdb

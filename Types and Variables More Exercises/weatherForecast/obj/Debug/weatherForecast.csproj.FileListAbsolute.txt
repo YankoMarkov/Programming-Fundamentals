@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\weatherForecast\bin\Debug\weatherForecast.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\weatherForecast\bin\Debug\weatherForecast.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\weatherForecast\bin\Debug\weatherForecast.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\weatherForecast\obj\Debug\weatherForecast.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\weatherForecast\obj\Debug\weatherForecast.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\weatherForecast\obj\Debug\weatherForecast.pdb

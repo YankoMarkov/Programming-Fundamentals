@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\typeBoundaries\bin\Debug\typeBoundaries.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\typeBoundaries\bin\Debug\typeBoundaries.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\typeBoundaries\bin\Debug\typeBoundaries.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\typeBoundaries\obj\Debug\typeBoundaries.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\typeBoundaries\obj\Debug\typeBoundaries.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\typeBoundaries\obj\Debug\typeBoundaries.pdb

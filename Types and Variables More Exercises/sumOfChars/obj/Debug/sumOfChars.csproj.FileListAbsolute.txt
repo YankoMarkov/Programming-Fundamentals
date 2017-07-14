@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sumOfChars\bin\Debug\sumOfChars.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sumOfChars\bin\Debug\sumOfChars.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sumOfChars\bin\Debug\sumOfChars.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sumOfChars\obj\Debug\sumOfChars.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sumOfChars\obj\Debug\sumOfChars.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sumOfChars\obj\Debug\sumOfChars.pdb
