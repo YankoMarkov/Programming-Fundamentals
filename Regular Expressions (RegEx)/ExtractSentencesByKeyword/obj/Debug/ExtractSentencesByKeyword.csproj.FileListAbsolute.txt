@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb

@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractEmails\bin\Debug\ExtractEmails.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractEmails\bin\Debug\ExtractEmails.pdb
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractEmails\obj\Debug\ExtractEmails.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\ExtractEmails\obj\Debug\ExtractEmails.pdb

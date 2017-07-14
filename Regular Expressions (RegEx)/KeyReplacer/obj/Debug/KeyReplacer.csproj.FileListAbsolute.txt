@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe.config
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\5. Key Replacer\bin\Debug\_5.Key_Replacer.pdb
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\5. Key Replacer\obj\Debug\_5.Key_Replacer.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\5. Key Replacer\obj\Debug\_5.Key_Replacer.pdb
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\5. Key Replacer\obj\Debug\KeyReplacer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\Weather\bin\Debug\Weather.exe.config
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\Weather\bin\Debug\Weather.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\Weather\bin\Debug\Weather.pdb
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\Weather\obj\Debug\Weather.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\Weather\obj\Debug\Weather.pdb

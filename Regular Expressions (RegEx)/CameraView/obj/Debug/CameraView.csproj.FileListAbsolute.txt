@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\CameraView\bin\Debug\CameraView.exe.config
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\CameraView\bin\Debug\CameraView.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\CameraView\bin\Debug\CameraView.pdb
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\CameraView\obj\Debug\CameraView.exe
+G:\C#\Projects\Programming Fundamentals\Regular Expressions (RegEx)\CameraView\obj\Debug\CameraView.pdb
