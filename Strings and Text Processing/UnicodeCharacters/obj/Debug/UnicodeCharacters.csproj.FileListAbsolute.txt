@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe.config
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.pdb
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.exe
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.pdb

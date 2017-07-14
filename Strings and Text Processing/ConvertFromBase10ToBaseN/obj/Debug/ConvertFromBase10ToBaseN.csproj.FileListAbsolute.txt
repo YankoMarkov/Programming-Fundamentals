@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Strings and Text Processing\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.exe.config
+G:\C#\Projects\Programming Fundamentals\Strings and Text Processing\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Text Processing\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.pdb
+G:\C#\Projects\Programming Fundamentals\Strings and Text Processing\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Strings and Text Processing\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.exe
+G:\C#\Projects\Programming Fundamentals\Strings and Text Processing\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.pdb

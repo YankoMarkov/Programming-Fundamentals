@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+F:\C#\Projects\Programming Fundamentals\Strings and Text Processing\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb
