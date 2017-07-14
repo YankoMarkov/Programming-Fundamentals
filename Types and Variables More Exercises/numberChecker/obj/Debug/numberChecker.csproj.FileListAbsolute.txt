@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\numberChecker\bin\Debug\numberChecker.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\numberChecker\bin\Debug\numberChecker.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\numberChecker\bin\Debug\numberChecker.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\numberChecker\obj\Debug\numberChecker.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\numberChecker\obj\Debug\numberChecker.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\numberChecker\obj\Debug\numberChecker.pdb

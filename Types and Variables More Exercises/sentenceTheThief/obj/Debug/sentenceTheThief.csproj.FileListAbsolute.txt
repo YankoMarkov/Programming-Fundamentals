@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sentenceTheThief\bin\Debug\sentenceTheThief.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sentenceTheThief\bin\Debug\sentenceTheThief.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sentenceTheThief\bin\Debug\sentenceTheThief.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sentenceTheThief\obj\Debug\sentenceTheThief.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sentenceTheThief\obj\Debug\sentenceTheThief.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\sentenceTheThief\obj\Debug\sentenceTheThief.pdb

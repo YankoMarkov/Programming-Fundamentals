@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\stringConcatenation\obj\Debug\stringConcatenation.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\stringConcatenation\bin\Debug\stringConcatenation.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\stringConcatenation\bin\Debug\stringConcatenation.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\stringConcatenation\bin\Debug\stringConcatenation.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\stringConcatenation\obj\Debug\stringConcatenation.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\stringConcatenation\obj\Debug\stringConcatenation.pdb

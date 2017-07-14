@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\makeAWord\bin\Debug\makeAWord.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\makeAWord\bin\Debug\makeAWord.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\makeAWord\bin\Debug\makeAWord.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\makeAWord\obj\Debug\makeAWord.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\makeAWord\obj\Debug\makeAWord.pdb
