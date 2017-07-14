@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\beerKegs\bin\Debug\beerKegs.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\beerKegs\bin\Debug\beerKegs.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\beerKegs\bin\Debug\beerKegs.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\beerKegs\obj\Debug\beerKegs.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\beerKegs\obj\Debug\beerKegs.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\beerKegs\obj\Debug\beerKegs.pdb

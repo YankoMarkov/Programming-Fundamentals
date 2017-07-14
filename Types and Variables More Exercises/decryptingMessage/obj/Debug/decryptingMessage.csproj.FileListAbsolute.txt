@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\decryptingMessage\bin\Debug\decryptingMessage.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\decryptingMessage\bin\Debug\decryptingMessage.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\decryptingMessage\bin\Debug\decryptingMessage.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\decryptingMessage\obj\Debug\decryptingMessage.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\decryptingMessage\obj\Debug\decryptingMessage.pdb

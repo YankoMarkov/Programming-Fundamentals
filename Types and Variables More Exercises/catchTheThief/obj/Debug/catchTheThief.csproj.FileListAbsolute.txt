@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\catchTheThief\bin\Debug\catchTheThief.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\catchTheThief\bin\Debug\catchTheThief.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\catchTheThief\bin\Debug\catchTheThief.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\catchTheThief\obj\Debug\catchTheThief.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\catchTheThief\obj\Debug\catchTheThief.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\catchTheThief\obj\Debug\catchTheThief.pdb

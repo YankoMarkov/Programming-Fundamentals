@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\balancedBrackets\bin\Debug\balancedBrackets.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\balancedBrackets\bin\Debug\balancedBrackets.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\balancedBrackets\bin\Debug\balancedBrackets.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\balancedBrackets\obj\Debug\balancedBrackets.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\balancedBrackets\obj\Debug\balancedBrackets.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\balancedBrackets\obj\Debug\balancedBrackets.csprojResolveAssemblyReference.cache

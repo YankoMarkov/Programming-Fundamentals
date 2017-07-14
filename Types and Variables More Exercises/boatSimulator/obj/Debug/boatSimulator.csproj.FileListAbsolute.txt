@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\boatSimulator\bin\Debug\boatSimulator.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\boatSimulator\bin\Debug\boatSimulator.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\boatSimulator\bin\Debug\boatSimulator.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\boatSimulator\obj\Debug\boatSimulator.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\boatSimulator\obj\Debug\boatSimulator.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables More Exercises\boatSimulator\obj\Debug\boatSimulator.pdb
