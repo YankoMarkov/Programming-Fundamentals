@@ -1,0 +1,6 @@
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\Files\bin\Debug\Files.exe.config
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\Files\bin\Debug\Files.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\Files\bin\Debug\Files.pdb
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\Files\obj\Debug\Files.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\Files\obj\Debug\Files.pdb

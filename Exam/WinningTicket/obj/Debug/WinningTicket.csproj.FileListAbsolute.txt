@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation I\WinningTicket\bin\Debug\WinningTicket.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation I\WinningTicket\bin\Debug\WinningTicket.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation I\WinningTicket\bin\Debug\WinningTicket.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation I\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation I\WinningTicket\obj\Debug\WinningTicket.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation I\WinningTicket\obj\Debug\WinningTicket.pdb

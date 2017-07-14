@@ -1,0 +1,6 @@
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.exe.config
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\SoftUniCoffeeOrders\bin\Debug\SoftUniCoffeeOrders.pdb
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\SoftUniCoffeeOrders\obj\Debug\SoftUniCoffeeOrders.pdb

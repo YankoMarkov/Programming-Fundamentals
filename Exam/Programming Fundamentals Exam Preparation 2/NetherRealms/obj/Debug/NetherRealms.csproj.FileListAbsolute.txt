@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\NetherRealms\bin\Debug\NetherRealms.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\NetherRealms\bin\Debug\NetherRealms.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\NetherRealms\bin\Debug\NetherRealms.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\NetherRealms\obj\Debug\NetherRealms.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\NetherRealms\obj\Debug\NetherRealms.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\NetherRealms\obj\Debug\NetherRealms.pdb

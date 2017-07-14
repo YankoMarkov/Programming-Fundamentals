@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\Ladybugs\bin\Debug\Ladybugs.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\Ladybugs\bin\Debug\Ladybugs.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\Ladybugs\bin\Debug\Ladybugs.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\Ladybugs\obj\Debug\Ladybugs.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\Ladybugs\obj\Debug\Ladybugs.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\Ladybugs\obj\Debug\Ladybugs.pdb

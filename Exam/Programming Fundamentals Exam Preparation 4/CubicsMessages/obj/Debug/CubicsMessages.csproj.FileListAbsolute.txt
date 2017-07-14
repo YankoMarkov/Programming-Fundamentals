@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\CubicsMessages\bin\Debug\CubicsMessages.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\CubicsMessages\bin\Debug\CubicsMessages.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\CubicsMessages\bin\Debug\CubicsMessages.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\CubicsMessages\obj\Debug\CubicsMessages.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\CubicsMessages\obj\Debug\CubicsMessages.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\CubicsMessages\obj\Debug\CubicsMessages.pdb

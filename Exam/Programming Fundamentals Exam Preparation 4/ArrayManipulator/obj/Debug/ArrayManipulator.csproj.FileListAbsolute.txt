@@ -1,0 +1,12 @@
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\obj\Debug\ArrayManipulator.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 4\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

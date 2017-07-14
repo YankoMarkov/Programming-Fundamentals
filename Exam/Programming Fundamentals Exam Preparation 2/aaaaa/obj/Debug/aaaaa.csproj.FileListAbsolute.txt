@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\aaaaa\bin\Debug\aaaaa.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\aaaaa\bin\Debug\aaaaa.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\aaaaa\bin\Debug\aaaaa.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\aaaaa\obj\Debug\aaaaa.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\aaaaa\obj\Debug\aaaaa.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\aaaaa\obj\Debug\aaaaa.pdb

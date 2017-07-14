@@ -1,0 +1,6 @@
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\RageQuit\bin\Debug\RageQuit.exe.config
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\RageQuit\bin\Debug\RageQuit.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\RageQuit\bin\Debug\RageQuit.pdb
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\RageQuit\obj\Debug\RageQuit.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\RageQuit\obj\Debug\RageQuit.pdb

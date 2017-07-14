@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\RoliTheCoder\bin\Debug\RoliTheCoder.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\RoliTheCoder\obj\Debug\RoliTheCoder.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\RoliTheCoder\obj\Debug\RoliTheCoder.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\RoliTheCoder\obj\Debug\RoliTheCoder.pdb

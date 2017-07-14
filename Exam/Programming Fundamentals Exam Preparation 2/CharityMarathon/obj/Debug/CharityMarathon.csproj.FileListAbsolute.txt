@@ -1,0 +1,6 @@
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\CharityMarathon\bin\Debug\CharityMarathon.exe.config
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\CharityMarathon\bin\Debug\CharityMarathon.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\CharityMarathon\bin\Debug\CharityMarathon.pdb
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\CharityMarathon\obj\Debug\CharityMarathon.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\CharityMarathon\obj\Debug\CharityMarathon.exe
+G:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 2\CharityMarathon\obj\Debug\CharityMarathon.pdb

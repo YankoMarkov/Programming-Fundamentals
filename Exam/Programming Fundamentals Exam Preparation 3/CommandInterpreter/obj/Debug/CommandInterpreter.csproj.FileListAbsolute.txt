@@ -1,0 +1,6 @@
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+F:\C#\Projects\Exams\Programming Fundamentals\Programming Fundamentals Exam Preparation 3\CommandInterpreter\obj\Debug\CommandInterpreter.pdb
