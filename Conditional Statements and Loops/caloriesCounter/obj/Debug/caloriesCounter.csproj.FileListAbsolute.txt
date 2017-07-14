@@ -1,0 +1,12 @@
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\bin\Debug\caloriesCounter.exe.config
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\bin\Debug\caloriesCounter.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\bin\Debug\caloriesCounter.pdb
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\obj\Debug\caloriesCounter.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\obj\Debug\caloriesCounter.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\obj\Debug\caloriesCounter.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\bin\Debug\caloriesCounter.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\bin\Debug\caloriesCounter.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\bin\Debug\caloriesCounter.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\obj\Debug\caloriesCounter.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\obj\Debug\caloriesCounter.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\caloriesCounter\obj\Debug\caloriesCounter.pdb

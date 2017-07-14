@@ -1,0 +1,11 @@
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\bin\Debug\chooseADrink2.exe.config
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\bin\Debug\chooseADrink2.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\bin\Debug\chooseADrink2.pdb
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\obj\Debug\chooseADrink2.exe
+G:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\obj\Debug\chooseADrink2.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\bin\Debug\chooseADrink2.exe.config
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\bin\Debug\chooseADrink2.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\bin\Debug\chooseADrink2.pdb
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\obj\Debug\chooseADrink2.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\obj\Debug\chooseADrink2.exe
+F:\C#\Projects\Programming Fundamentals\Conditional Statements and Loops\chooseADrink2\obj\Debug\chooseADrink2.pdb
