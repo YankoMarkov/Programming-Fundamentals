@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\bpmCounter\bin\Debug\bpmCounter.exe.config
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\bpmCounter\bin\Debug\bpmCounter.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\bpmCounter\bin\Debug\bpmCounter.pdb
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\bpmCounter\obj\Debug\bpmCounter.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\bpmCounter\obj\Debug\bpmCounter.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\bpmCounter\obj\Debug\bpmCounter.pdb

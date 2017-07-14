@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\photoGallery\bin\Debug\photoGallery.exe.config
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\photoGallery\bin\Debug\photoGallery.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\photoGallery\bin\Debug\photoGallery.pdb
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\photoGallery\obj\Debug\photoGallery.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\photoGallery\obj\Debug\photoGallery.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\photoGallery\obj\Debug\photoGallery.pdb

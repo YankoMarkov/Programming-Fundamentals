@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\megapixels\bin\Debug\megapixels.exe.config
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\megapixels\bin\Debug\megapixels.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\megapixels\bin\Debug\megapixels.pdb
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\megapixels\obj\Debug\megapixels.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\megapixels\obj\Debug\megapixels.pdb

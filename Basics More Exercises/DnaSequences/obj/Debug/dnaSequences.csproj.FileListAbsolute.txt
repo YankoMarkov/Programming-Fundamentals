@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\dnaSequences\bin\Debug\dnaSequences.exe.config
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\dnaSequences\bin\Debug\dnaSequences.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\dnaSequences\bin\Debug\dnaSequences.pdb
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\dnaSequences\obj\Debug\dnaSequences.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\dnaSequences\obj\Debug\dnaSequences.exe
+G:\C#\Projects\Programming Fundamentals\Basics More Exercises\dnaSequences\obj\Debug\dnaSequences.pdb
