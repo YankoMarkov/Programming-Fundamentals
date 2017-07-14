@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\GrabAndGo\bin\Debug\GrabAndGo.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\GrabAndGo\bin\Debug\GrabAndGo.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\GrabAndGo\bin\Debug\GrabAndGo.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\GrabAndGo\obj\Debug\GrabAndGo.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\GrabAndGo\obj\Debug\GrabAndGo.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\GrabAndGo\obj\Debug\GrabAndGo.pdb

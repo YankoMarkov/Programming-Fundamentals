@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ArrayStatistics\bin\Debug\ArrayStatistics.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ArrayStatistics\bin\Debug\ArrayStatistics.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ArrayStatistics\bin\Debug\ArrayStatistics.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ArrayStatistics\obj\Debug\ArrayStatistics.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ArrayStatistics\obj\Debug\ArrayStatistics.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\ArrayStatistics\obj\Debug\ArrayStatistics.pdb

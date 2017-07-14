@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\InventoryMatcher\bin\Debug\InventoryMatcher.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\InventoryMatcher\bin\Debug\InventoryMatcher.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\InventoryMatcher\bin\Debug\InventoryMatcher.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\InventoryMatcher\obj\Debug\InventoryMatcher.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\InventoryMatcher\obj\Debug\InventoryMatcher.exe
+F:\C#\Projects\Programming Fundamentals\Arrays and Methods\InventoryMatcher\obj\Debug\InventoryMatcher.pdb
