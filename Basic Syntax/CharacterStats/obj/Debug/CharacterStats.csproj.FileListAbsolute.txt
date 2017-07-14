@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\CharacterStats\obj\Debug\CharacterStats.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb

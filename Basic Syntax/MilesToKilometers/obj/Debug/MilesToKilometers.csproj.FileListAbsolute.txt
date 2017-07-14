@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

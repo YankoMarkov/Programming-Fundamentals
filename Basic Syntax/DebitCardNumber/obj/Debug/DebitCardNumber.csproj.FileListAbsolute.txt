@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

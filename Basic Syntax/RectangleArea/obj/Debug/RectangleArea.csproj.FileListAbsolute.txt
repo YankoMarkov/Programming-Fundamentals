@@ -1,0 +1,5 @@
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe.config
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.pdb
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\RectangleArea\obj\Debug\RectangleArea.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\RectangleArea\obj\Debug\RectangleArea.pdb

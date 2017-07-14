@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.exe
+G:\C#\Projects\Programming Fundamentals\Basic Syntax\BasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.pdb
