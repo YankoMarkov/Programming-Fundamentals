@@ -1,0 +1,6 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\centuriesToNanoseconds\bin\Debug\centuriesToNanoseconds.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\centuriesToNanoseconds\bin\Debug\centuriesToNanoseconds.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\centuriesToNanoseconds\bin\Debug\centuriesToNanoseconds.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\centuriesToNanoseconds\obj\Debug\centuriesToNanoseconds.csprojResolveAssemblyReference.cache
+F:\C#\Projects\Programming Fundamentals\Types and Variables\centuriesToNanoseconds\obj\Debug\centuriesToNanoseconds.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\centuriesToNanoseconds\obj\Debug\centuriesToNanoseconds.pdb

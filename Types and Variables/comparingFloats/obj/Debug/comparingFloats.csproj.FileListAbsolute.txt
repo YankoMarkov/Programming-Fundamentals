@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Types and Variables\comparingFloats\bin\Debug\comparingFloats.exe.config
+F:\C#\Projects\Programming Fundamentals\Types and Variables\comparingFloats\bin\Debug\comparingFloats.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\comparingFloats\bin\Debug\comparingFloats.pdb
+F:\C#\Projects\Programming Fundamentals\Types and Variables\comparingFloats\obj\Debug\comparingFloats.exe
+F:\C#\Projects\Programming Fundamentals\Types and Variables\comparingFloats\obj\Debug\comparingFloats.pdb
