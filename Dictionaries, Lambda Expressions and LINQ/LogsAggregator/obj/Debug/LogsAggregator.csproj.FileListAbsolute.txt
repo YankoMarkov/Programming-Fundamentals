@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LogsAggregator\bin\Debug\LogsAggregator.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LogsAggregator\bin\Debug\LogsAggregator.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LogsAggregator\bin\Debug\LogsAggregator.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LogsAggregator\obj\Debug\LogsAggregator.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LogsAggregator\obj\Debug\LogsAggregator.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LogsAggregator\obj\Debug\LogsAggregator.pdb

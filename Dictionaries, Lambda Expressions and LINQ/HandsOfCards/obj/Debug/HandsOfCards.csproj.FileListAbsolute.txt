@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\HandsOfCards\bin\Debug\HandsOfCards.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\HandsOfCards\bin\Debug\HandsOfCards.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\HandsOfCards\obj\Debug\HandsOfCards.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\HandsOfCards\obj\Debug\HandsOfCards.pdb

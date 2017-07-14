@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LegendaryFarming\obj\Debug\LegendaryFarming.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LegendaryFarming\obj\Debug\LegendaryFarming.pdb
