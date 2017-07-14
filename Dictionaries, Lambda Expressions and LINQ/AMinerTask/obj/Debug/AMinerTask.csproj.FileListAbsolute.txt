@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\AMinerTask\bin\Debug\AMinerTask.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\AMinerTask\bin\Debug\AMinerTask.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\AMinerTask\bin\Debug\AMinerTask.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\AMinerTask\obj\Debug\AMinerTask.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\AMinerTask\obj\Debug\AMinerTask.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\AMinerTask\obj\Debug\AMinerTask.pdb

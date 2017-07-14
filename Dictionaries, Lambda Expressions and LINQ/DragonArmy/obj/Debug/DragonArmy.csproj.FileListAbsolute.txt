@@ -1,0 +1,6 @@
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DragonArmy\bin\Debug\DragonArmy.exe.config
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DragonArmy\bin\Debug\DragonArmy.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DragonArmy\bin\Debug\DragonArmy.pdb
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DragonArmy\obj\Debug\DragonArmy.exe
+G:\C#\Projects\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\DragonArmy\obj\Debug\DragonArmy.pdb
