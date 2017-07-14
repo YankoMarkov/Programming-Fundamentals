@@ -1,0 +1,5 @@
+F:\C#\Projects\Programming Fundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.exe.config
+F:\C#\Projects\Programming Fundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.exe
+F:\C#\Projects\Programming Fundamentals\Arrays\MaxSequenceOfIncreasingElements\bin\Debug\MaxSequenceOfIncreasingElements.pdb
+F:\C#\Projects\Programming Fundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.exe
+F:\C#\Projects\Programming Fundamentals\Arrays\MaxSequenceOfIncreasingElements\obj\Debug\MaxSequenceOfIncreasingElements.pdb
